@@ -1,0 +1,26 @@
+.nav-t {
+    background-color: #FFC017;
+    border-bottom: 1px solid black;
+}
+
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.name-font {
+    font-size: 13px !important;
+}
+
+.explain-font {
+    font-size: 16px !important;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.aside-buttons>li {
+    margin-bottom: 10px;
+}
+.buttons-font {
+    font-size: 13px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
